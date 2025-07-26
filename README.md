@@ -15,20 +15,19 @@ This is a Java Servlet + MySQL-based web application built during my internship 
 ---
 
 ## 🧪 Screenshorts
-<img width="1918" height="823" alt="Screenshot 2025-07-26 171139" src="https://github.com/user-attachments/assets/f7b3b6a5-a6c5-415a-bf7e-0355b7a3c70a" />
-<img width="1919" height="821" alt="Screenshot 2025-07-26 171105" src="https://github.com/user-attachments/assets/e1d3d234-fd2e-4022-a0a7-094b643ab114" />
-<img width="1919" height="819" alt="Screenshot 2025-07-26 171049" src="https://github.com/user-attachments/assets/9690d93f-c03a-40a6-9afd-950351e85189" />
-<img width="1919" height="820" alt="Screenshot 2025-07-26 171034" src="https://github.com/user-attachments/assets/9d5a97f9-9fef-481c-9a73-24727e28224c" />
-<img width="1919" height="821" alt="Screenshot 2025-07-26 171006" src="https://github.com/user-attachments/assets/7f31df81-8b5b-406f-a123-5bae6f5c3f06" />
-<img width="1919" height="825" alt="Screenshot 2025-07-26 170944" src="https://github.com/user-attachments/assets/9e2ca02e-d3a9-429c-88e8-0d0c1a33225e" />
-<img width="1919" height="821" alt="Screenshot 2025-07-26 170926" src="https://github.com/user-attachments/assets/5f77eb6a-c28d-480d-b123-4195abb21334" />
-<img width="1918" height="830" alt="Screenshot 2025-07-26 170908" src="https://github.com/user-attachments/assets/318b0135-54b4-4afb-965c-8b54548e329c" />
-<img width="1919" height="817" alt="Screenshot 2025-07-26 170847" src="https://github.com/user-attachments/assets/1656b1cb-d0e6-4cf1-8c0a-9d6e10bfa1ff" />
-<img width="1919" height="819" alt="Screenshot 2025-07-26 170829" src="https://github.com/user-attachments/assets/6421e9a6-a597-4af9-9d11-3b7db60952af" />
-<img width="1919" height="826" alt="Screenshot 2025-07-26 170806" src="https://github.com/user-attachments/assets/ad49e2ab-34dd-477b-9eb9-87522827d74e" />
-<img width="1919" height="828" alt="Screenshot 2025-07-26 170749" src="https://github.com/user-attachments/assets/af0c9bc1-a4b4-4361-9034-d57db8fe15e0" />
 <img width="1919" height="826" alt="Screenshot 2025-07-26 170725" src="https://github.com/user-attachments/assets/36464cde-a6bd-4e07-b851-babc71608d9b" />
-
+<img width="1919" height="828" alt="Screenshot 2025-07-26 170749" src="https://github.com/user-attachments/assets/af0c9bc1-a4b4-4361-9034-d57db8fe15e0" />
+<img width="1919" height="826" alt="Screenshot 2025-07-26 170806" src="https://github.com/user-attachments/assets/ad49e2ab-34dd-477b-9eb9-87522827d74e" />
+<img width="1919" height="819" alt="Screenshot 2025-07-26 170829" src="https://github.com/user-attachments/assets/6421e9a6-a597-4af9-9d11-3b7db60952af" />
+<img width="1919" height="817" alt="Screenshot 2025-07-26 170847" src="https://github.com/user-attachments/assets/1656b1cb-d0e6-4cf1-8c0a-9d6e10bfa1ff" />
+<img width="1918" height="830" alt="Screenshot 2025-07-26 170908" src="https://github.com/user-attachments/assets/318b0135-54b4-4afb-965c-8b54548e329c" />
+<img width="1919" height="821" alt="Screenshot 2025-07-26 170926" src="https://github.com/user-attachments/assets/5f77eb6a-c28d-480d-b123-4195abb21334" />
+<img width="1919" height="825" alt="Screenshot 2025-07-26 170944" src="https://github.com/user-attachments/assets/9e2ca02e-d3a9-429c-88e8-0d0c1a33225e" />
+<img width="1919" height="821" alt="Screenshot 2025-07-26 171006" src="https://github.com/user-attachments/assets/7f31df81-8b5b-406f-a123-5bae6f5c3f06" />
+<img width="1919" height="820" alt="Screenshot 2025-07-26 171034" src="https://github.com/user-attachments/assets/9d5a97f9-9fef-481c-9a73-24727e28224c" />
+<img width="1919" height="819" alt="Screenshot 2025-07-26 171049" src="https://github.com/user-attachments/assets/9690d93f-c03a-40a6-9afd-950351e85189" />
+<img width="1919" height="821" alt="Screenshot 2025-07-26 171105" src="https://github.com/user-attachments/assets/e1d3d234-fd2e-4022-a0a7-094b643ab114" />
+<img width="1918" height="823" alt="Screenshot 2025-07-26 171139" src="https://github.com/user-attachments/assets/f7b3b6a5-a6c5-415a-bf7e-0355b7a3c70a" />
 
 ---
 
